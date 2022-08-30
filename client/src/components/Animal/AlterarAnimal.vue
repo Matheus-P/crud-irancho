@@ -116,8 +116,6 @@ export default {
       this.form.no_animal = ''
       this.form.no_raca = ''
       this.form.vr_peso = ''
-      this.form.sexo = null
-      this.form.dt_nascimento = ''
       // Trick to reset/clear native browser form validation state
       this.show = false
       this.$nextTick(() => {
