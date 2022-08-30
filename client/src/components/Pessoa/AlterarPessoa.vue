@@ -101,7 +101,6 @@ export default {
       this.form.no_pessoa = ''
       this.form.no_email = ''
       this.form.endereco = ''
-      this.form.sexo = null
       this.form.ic_ativo = null
       // Trick to reset/clear native browser form validation state
       this.show = false
